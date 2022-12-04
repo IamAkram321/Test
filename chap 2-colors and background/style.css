@@ -1,0 +1,20 @@
+*{
+  margin: 0;   /* ---->m0  */
+  padding: 0;  /* ---->p0  or m0+p0 */
+}
+
+.red{
+  background-color: red;
+  height: 100px;
+  color: white;
+}
+
+.green{
+  background-color: green;
+  color: aqua;
+}
+
+.blue{
+  background-color: blue;
+  color: blueviolet;
+}
